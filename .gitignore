@@ -1,0 +1,8 @@
+build/
+*.o
+*.out
+*.ncu-rep
+*.nsys-rep
+*.sqlite
+__pycache__/
+.ipynb_checkpoints/
